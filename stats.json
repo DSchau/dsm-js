@@ -4,6 +4,14 @@
       "component---src-pages-index-js-311784de67d1f109e0f5.js",
       "component---src-pages-index-js-311784de67d1f109e0f5.js.map"
     ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-ef051ac745083522010f.js",
+      "component---src-layouts-index-js-ef051ac745083522010f.js.map"
+    ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
@@ -13,8 +21,8 @@
       "commons-eb094a0a8e28cfb59550.js.map"
     ],
     "app": [
-      "app-369c87edb52999b618d4.js",
-      "app-369c87edb52999b618d4.js.map"
+      "app-23e45978ab1ece809cd0.js",
+      "app-23e45978ab1ece809cd0.js.map"
     ]
   }
 }
