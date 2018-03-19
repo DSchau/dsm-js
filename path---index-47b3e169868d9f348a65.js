@@ -1,2 +1,0 @@
-webpackJsonp([0x81b8806e4260],{217:function(e,t){e.exports={data:{allMarkdownRemark:{edges:[{node:{frontmatter:{meeting:{date:"March 13, 2018",time:{start:"6:00pm",end:"7:00pm"}},sponsor:{name:"Robert Half",site:"https://www.roberthalf.com/ia-des-moines"}}}}]}},pathContext:{}}}});
-//# sourceMappingURL=path---index-47b3e169868d9f348a65.js.map
