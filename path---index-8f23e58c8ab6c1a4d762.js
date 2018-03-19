@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{217:function(t,e){t.exports={data:{allMarkdownRemark:{edges:[{node:{frontmatter:{meeting:{date:"March 13, 2018",time:{start:"6:00pm",end:"7:00pm"}},sponsor:{name:"Robert Half",site:"https://www.roberthalf.com/ia-des-moines"},host:{location:"Gravitate, 317 6th Ave, Suite 10"},talk:{title:"An Introduction to Transducers",speaker:"Eric Ponto"}}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-8f23e58c8ab6c1a4d762.js.map
